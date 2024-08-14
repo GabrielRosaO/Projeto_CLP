@@ -3,8 +3,8 @@ Neste repositório está o desenvolvimento de um código que calcula e demonstra
 A ideia desse trabalho é focar e encontrar uma maneira de criar um programa que integre duas linguagens diferentes, no caso as escolhidas forma C e Python.
 
 ## Integrantes
-  Bruno Martins Alexandre // bmalexandre@inf.ufpel.edu.br
-  Gabriel Rosa de O. Silva // grosilva@inf.ufpel.edu.br
+    Bruno Martins Alexandre // bmalexandre@inf.ufpel.edu.br
+    Gabriel Rosa de O. Silva // grosilva@inf.ufpel.edu.br
 
 ## Composição do repositório
 O repositório é composto por 6 arquivos, sendo 5 deles para a execução do código e 1 em formato PDF com a descrição do que foi feito:
