@@ -20,7 +20,7 @@ O repositório é composto por 6 arquivos, sendo 5 deles para a execução do c�
 
 -`Makefile` -> Arquivo para ser utilizado através do utilitário make para compilar e executar o projeto.
 
--`Relatório.pdf` -> Arquivo contendo a documentação da implementação.
+-`Relatório_CLP.pdf` -> Arquivo contendo a documentação da implementação.
 
 ## Como utilizar
 
